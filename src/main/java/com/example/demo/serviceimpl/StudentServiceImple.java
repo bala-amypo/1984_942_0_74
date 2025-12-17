@@ -8,6 +8,8 @@ import com.example.demo.service.Stuservice;
 public class Stuserviceimpl implements Stuservice{
     private final StudentService StudentRepository;
     public StudentServiceImple(StudentRepository StudentRepository){
-        this.studentRepository=studentRepository
+        this.studentRepository=studentRepository;
+      
+      public 
     }
 }
